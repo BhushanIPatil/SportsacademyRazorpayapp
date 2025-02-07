@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o741+tfkEls=",
+  "success": true,
+  "projectFilePath": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Razorpaycore8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhush\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bhush\\.nuget\\packages\\razorpay.core\\1.0.2\\razorpay.core.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

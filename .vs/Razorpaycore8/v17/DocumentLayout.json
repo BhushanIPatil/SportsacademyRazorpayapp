@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|c:\\cdac\\project\\final projects\\dotnet_project\\razorpaycore8\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|solutionrelative:service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|c:\\cdac\\project\\final projects\\dotnet_project\\razorpaycore8\\views\\payment\\succeedcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|solutionrelative:views\\payment\\succeedcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|c:\\cdac\\project\\final projects\\dotnet_project\\razorpaycore8\\models\\merchantorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|solutionrelative:models\\merchantorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|c:\\cdac\\project\\final projects\\dotnet_project\\razorpaycore8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|c:\\cdac\\project\\final projects\\dotnet_project\\razorpaycore8\\views\\payment\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|solutionrelative:views\\payment\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|c:\\cdac\\project\\final projects\\dotnet_project\\razorpaycore8\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|solutionrelative:models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|c:\\cdac\\project\\final projects\\dotnet_project\\razorpaycore8\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|c:\\cdac\\project\\final projects\\dotnet_project\\razorpaycore8\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD845E13-3E9B-411B-B3C9-269BDE1B9181}|Razorpaycore8.csproj|solutionrelative:views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Succeedcshtml.cshtml",
+              "DocumentMoniker": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Views\\Payment\\Succeedcshtml.cshtml",
+              "RelativeDocumentMoniker": "Views\\Payment\\Succeedcshtml.cshtml",
+              "ToolTip": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Views\\Payment\\Succeedcshtml.cshtml",
+              "RelativeToolTip": "Views\\Payment\\Succeedcshtml.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T10:10:10.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "Views\\Payment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T10:10:10.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:10:10.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Service\\PaymentService.cs",
+              "ToolTip": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Service\\PaymentService.cs",
+              "RelativeToolTip": "Service\\PaymentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:10:10.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Models\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentRequest.cs",
+              "ToolTip": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Models\\PaymentRequest.cs",
+              "RelativeToolTip": "Models\\PaymentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:10:10.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "payment.cshtml",
+              "DocumentMoniker": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Views\\Payment\\payment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Payment\\payment.cshtml",
+              "ToolTip": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Views\\Payment\\payment.cshtml",
+              "RelativeToolTip": "Views\\Payment\\payment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T10:10:10.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:10:10.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MerchantOrder.cs",
+              "DocumentMoniker": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Models\\MerchantOrder.cs",
+              "RelativeDocumentMoniker": "Models\\MerchantOrder.cs",
+              "ToolTip": "C:\\CDAC\\Project\\Final Projects\\DotNet_Project\\Razorpaycore8\\Models\\MerchantOrder.cs",
+              "RelativeToolTip": "Models\\MerchantOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:10:10.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
